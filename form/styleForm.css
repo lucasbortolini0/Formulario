@@ -1,0 +1,37 @@
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+fieldset{
+    margin-right: 1300px;
+}
+label{
+    font-family: Arial, Helvetica, sans-serif
+}
+.form-control{
+    border: 2px solid black;
+}
+.row{
+    padding-left: 00px;
+    padding-top: 20px;
+    margin: 10px;
+}
+.button{
+    border-bottom-style: groove;
+    width: 80px;
+    height: 30px;
+    background-color:white;
+    border: 2px solid black;
+}
+.button:hover{  
+    background-color:#4CAF50; 
+    color: black; 
+    border: 2px solid black;
+}
+#years{
+    margin-left: 3px;
+    margin-top: 5px;
+}
+#email{
+    margin-left: 3px;
+    margin-top: 5px;
+}
